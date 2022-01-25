@@ -1,3 +1,3 @@
 (() => {
-    console.log('sample works');
+    console.log('sample.js works ');
 })();
